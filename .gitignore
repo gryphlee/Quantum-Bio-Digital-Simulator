@@ -1,0 +1,14 @@
+Virtual Environment
+
+venv/
+/venv/
+pycache/
+
+System files
+
+.DS_Store
+
+IDE files
+
+.vscode/
+.idea/
